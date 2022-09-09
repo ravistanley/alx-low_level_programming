@@ -25,7 +25,7 @@ int main(void)
 			putchar (second_nums / 10 + '0');
 			putchar (second_nums % 10 + '0');
 
-			if (first_nums == 98 && second_nums == 98)
+			if ((first_nums == 98) && (second_nums == 98))
 			{
 				break;
 			}
