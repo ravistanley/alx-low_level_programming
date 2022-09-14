@@ -2,8 +2,8 @@
 
 /**
  * print_alphabet - prints alhabet in lowercase
- * 
- * Return: returns nothing
+ *
+ * * Return: returns nothing
  */
 
 void print_alphabet(void)
