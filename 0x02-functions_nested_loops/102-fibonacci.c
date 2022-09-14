@@ -27,7 +27,7 @@ int main(void)
 
 		else
 		{
-			printf("%ld\n", nexTerm);
+			printf("%ld\n", nextTerm);
 		}
 	}
 	return (0);
