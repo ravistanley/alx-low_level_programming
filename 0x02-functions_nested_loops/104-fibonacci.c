@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdio.h>
-#define z 1000000000
+#define Z 1000000000
 
 /**
  * main - increases and decreases until 98
