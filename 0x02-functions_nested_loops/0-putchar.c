@@ -1,15 +1,15 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - Entry point
+ * main - check the code
  *
- * Return: Always returns (Success)
+ * Return: Always return 0
  */
 
 int main(void)
 {
-	printf("_putchar\n");
-	printf("\n");
+	_putchar("_putchar\n");
+	_putchar('\n');
 
 	return (0);
 }
